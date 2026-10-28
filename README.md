@@ -48,7 +48,7 @@ python3 quick_validate.py oralenglish-skill   # 官方验证脚本，检查 fron
 ## 4. 使用方法
 
 1. 在已安装该 Skill 的 Agent 中发起训练，例如：
-   - 「开始口语思辨训练」
+   - 「开始口语练习」
    - 「练一个专四口语话题」
    - 「陪我练口语，帮我纠中式英语」
 2. AI 出题后，你用英文作答（口述后转写输入，或直接打字）；
@@ -59,7 +59,7 @@ python3 quick_validate.py oralenglish-skill   # 官方验证脚本，检查 fron
 
 **输入（用户）**
 
-> 开始训练吧。
+> 开始口语练习。
 
 **输出（AI 出题）**
 
